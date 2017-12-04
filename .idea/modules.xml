@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/crm-dao/crm-dao.iml" filepath="$PROJECT_DIR$/crm-dao/crm-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crm-par.iml" filepath="$PROJECT_DIR$/crm-par.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crm-service/crm-service.iml" filepath="$PROJECT_DIR$/crm-service/crm-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crmcontroller/crmcontroller.iml" filepath="$PROJECT_DIR$/crmcontroller/crmcontroller.iml" />
+    </modules>
+  </component>
+</project>
