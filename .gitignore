@@ -1,3 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 
 /crm-dao/crm-dao.iml
+.idea/inspectionProfiles/
+.idea/workspace.xml
+crmcontroller/src/main/resources/
